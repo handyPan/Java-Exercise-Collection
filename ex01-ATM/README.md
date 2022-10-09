@@ -51,3 +51,6 @@ To be included.
 ## 3. How to run the code
 - Configure the database as shown above. Database name is `atm`, the two tables are `account` and `transaction`. Refer to above screenshots (1.1) for details of column names.
 - Download `ex01-ATM` and open with NetBeans, navigate to `src/main/java/ex01atm`, run (Shift+F6) `Ex01ATM.java` or `Start.java`.
+
+## 4. Todo
+Refactor the codes to have the db operations in a utility class.
