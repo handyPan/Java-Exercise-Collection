@@ -1,0 +1,6 @@
+Id,Name,Department,Hours,Credits
+1;Machine Learning;Computer Science;30;1.000000
+2;Pattern Recognition;Computer Science;30;1.500000
+3;Calculus;Mathematics;60;4.000000
+4;Signal and System;Electrical Engineering;40;1.500000
+5;Numerical Method;Mathematics;40;1.500000

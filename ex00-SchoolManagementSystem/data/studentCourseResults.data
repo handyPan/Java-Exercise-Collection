@@ -1,0 +1,7 @@
+Student Id,Course Id,Is Approved,Is Enrolled,Final Grade
+3;4;true;true;92
+3;2;false;false;-1
+3;5;true;true;0
+3;1;false;false;-1
+4;1;false;false;-1
+4;3;true;true;0
