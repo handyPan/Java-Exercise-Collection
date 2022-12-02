@@ -31,7 +31,6 @@ NetBeans 13
 [demo](https://youtu.be/ZKdqaubEq2Y)
 
 ## 3. How to run the code
-- Configure the database as shown above. Database name is `atm`, the two tables are `account` and `transaction`. Refer to above screenshots (1.1) for details of column names.
 - Download `ex00-SchoolManagementSystem` and open with NetBeans, navigate to `src/main/java/handypan/ex00/SchoolManagementSystem`, run (Shift+F6) `Ex00SchoolManagementSystem.java`.
 
 ## 4. Todo
